@@ -29,7 +29,7 @@ nav ul li{
     padding: 10px 20px;
 }
 nav ul li a{
-    color: #1d1d24;
+    color: #FFFFFF;
     position: relative;
     padding: 5px 0;
 }
@@ -80,12 +80,12 @@ nav ul li a:hover:after{
     letter-spacing: 4px;
     display: inline-block;
     margin-bottom: 20px;
-    background: linear-gradient(120deg, #1c99fe 20.69%, #7644ff 50.19%,#fd4766 79.69%);
+    background: linear-gradient(120deg, #1c99fe 20.69%, #DA67FF 50.19%,#fd4766 79.69%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 .content h1{
-    color: #1f1f25;
+    color: #FFFFFF;
     font-size: 75px;
     font-weight: 900;
     line-height: 90px;
@@ -97,7 +97,7 @@ nav ul li a:hover:after{
 }
 .content p{
     width: 55%;
-    color: #757575;
+    color: #EAEAEA;
     margin-top: 25px;
     margin-bottom: 30px;
 }
